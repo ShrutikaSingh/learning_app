@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">learning_app</string>
+    <string name="welcome_message">Welcome To Message Activity</string>
+    <string name="Project_name">Enter the project</string>
+    <string name="Post">"Post "</string>
+    <string name="final_activity_message">Welcome to final activity :)</string>
+    <string name="final_activity_botton">Open Final Activity</string>
+</resources>
